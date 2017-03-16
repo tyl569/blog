@@ -2,7 +2,7 @@
 title: Ubuntu搭建lnmp环境
 date: 2016-11-22 17:47:51
 tags: php linux nginx
-categories: linux
+categories: Linux
 ---
 
 ---------------------------------------

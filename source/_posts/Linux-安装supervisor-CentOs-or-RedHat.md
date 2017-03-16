@@ -1,7 +1,7 @@
 ---
 title: Linux 安装supervisor (CentOs or RedHat)
 date: 2016-11-09 18:38:07
-tags:
+tags: Linux
 categories: Linux
 ---
 
